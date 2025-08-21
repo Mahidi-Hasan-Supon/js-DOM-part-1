@@ -1,3 +1,11 @@
 p{
     color: blue;
 }
+
+section{
+    border: 2px solid salmon;
+    background-color: aqua;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
