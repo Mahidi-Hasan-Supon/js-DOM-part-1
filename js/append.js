@@ -25,7 +25,7 @@ placeSection.appendChild(ul);
 // <<<<<<<<<<create li in ul >>>>>>>>>>>>>>>>>>>>>>>
 
 const li1 = document.createElement('li');
-li1.innerText='Apple'
+li1.innerText='Apple';
 
 ul.appendChild(li1)
 
@@ -35,6 +35,6 @@ ul.appendChild(li1)
 const li2 = document.createElement('li')
 li2.innerText = 'Banana';
 
-ul.appendChild(li2)
+ul.appendChild(li2);
 
 
